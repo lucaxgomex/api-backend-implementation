@@ -1,5 +1,3 @@
-por gentileza, traduza, no padrão de inglês norte-americano, o seguinte texto README:
-
 > Study on API Development and Implementation
 
 ### Application Description
