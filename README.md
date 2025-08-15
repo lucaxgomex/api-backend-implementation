@@ -1,9 +1,14 @@
-# engenharia-software-4
-engenharia-software-4
+por gentileza, traduza, no padrão de inglês norte-americano, o seguinte texto README:
 
-### Descrição da aplicação
-- Aplicação web contendo formulários para adicionar professores, alunos e disciplinas;
-- Implementar a lógica para associar disciplinas a professores e alunos;
-- Garantir que cada aluno pode se associar a no máximo 4 disciplinas;
-- Listar todas as disciplinas, professores e alunos na interface;
-- Permitir a edição e remoção dos registros.
+> Study on API Development and Implementation
+
+### Application Description
+- A web application containing forms to add teachers, students, and courses;
+
+- Implement the logic to associate courses with teachers and students;
+
+- Ensure that each student can be associated with a maximum of 4 courses;
+
+- List all courses, teachers, and students in the interface;
+
+- Allow editing and removal of records.
